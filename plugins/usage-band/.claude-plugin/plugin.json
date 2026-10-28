@@ -1,0 +1,10 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Mostra o consumo do limite de 5h e semanal acima do prompt",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pedro Neves"
+  },
+  "license": "MIT"
+}

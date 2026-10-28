@@ -1,0 +1,14 @@
+{
+  "name": "sdpedro",
+  "owner": {
+    "name": "Pedro Neves"
+  },
+  "description": "Mods de Pedro Neves para o Claude Code e o Claude Desktop",
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "Mostra o consumo do limite de 5h e semanal acima do prompt"
+    }
+  ]
+}
