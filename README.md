@@ -9,5 +9,6 @@ Mods para o Claude Code e o Claude Desktop.
 ## Instalar
 
 ```
-/plugin install usage-band --marketplace sdpedro/claude-mods
+/plugin marketplace add sdpedro/claude-mods
+/plugin install usage-band@sdpedro
 ```

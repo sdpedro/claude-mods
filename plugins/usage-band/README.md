@@ -7,9 +7,10 @@ Mostra o consumo da assinatura do Claude (limite atual de 5h e limite semanal) n
 No Claude Code (terminal), rode:
 
 ```
-/plugin install usage-band --marketplace sdpedro/claude-mods
+/plugin marketplace add sdpedro/claude-mods
+/plugin install usage-band@sdpedro
 ```
 
-Responda `y` para adicionar o marketplace e escolha onde instalar. Depois abra uma nova sessão (no terminal ou no Claude Desktop): a faixa aparece depois da primeira resposta do Claude.
+Escolha onde instalar quando o Claude perguntar. Depois abra uma nova sessão (no terminal ou no Claude Desktop): a faixa aparece depois da primeira resposta do Claude.
 
 Requer uma conta com assinatura (Pro/Max): sem assinatura não há limites para mostrar.
